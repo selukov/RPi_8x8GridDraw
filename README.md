@@ -13,7 +13,7 @@ See my [blog] (http://richardhayler.blogspot.com/2015/06/creating-images-for-ast
 
 ###Installation
 
-1. Install the pypng Python module
+1. Install the pypng Python module ( sudo pip install pypng or sudo pip-3.2 install pypng )
 2. Install the appropriate library for your HAT
 3. Clone this repo
 
